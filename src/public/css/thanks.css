@@ -1,0 +1,20 @@
+main{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.thanks-form__content{
+    text-align: center;
+    color:#a08660;;
+}
+.thanks-form__button{
+    display: flex;
+    justify-content: center;
+}
+.button-home{
+    background-color: #a08660;
+    border: 1px solid #a08660;
+    color: #fff;
+    padding: 5px 30px;
+}

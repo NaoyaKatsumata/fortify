@@ -1,0 +1,72 @@
+.contacts-form{
+  border-top:1px solid rgb(221, 207, 188);
+  background-color: #fff;
+}
+.contacts-form__title{
+  margin: 0 auto;
+  padding:20px 0;
+  text-align: center;
+  color:#a08660;
+}
+.contact-table__input-name{
+  display: flex;
+  justify-content: space-between;
+}
+.contact-table__input-tel{
+  display: flex;
+  justify-content: space-between;
+}
+table{
+  margin: 0 auto;
+  width: 80%;
+}
+td{
+  padding: 10px 100px;
+}
+th{
+  text-align: left;
+  width: 30%;
+  color:rgba(159, 110, 69, 0.5);
+}
+.contact-table__text{
+  width: 100%;
+  height: 30px;
+  margin-right: 10px;
+  padding:0 10px;
+  background-color: rgb(236, 236, 236,0.5);
+  border: 1px solid #ddd;
+  appearance: none; 
+}
+.contact-table__name{
+  width: 45%;
+  height: 30px;
+  background-color: rgb(236, 236, 236,0.5);
+  border: 1px solid #ddd;
+  appearance: none; 
+}
+.contact-table__textarea{
+  width: 100%;
+  margin-right: 10px;
+  padding:0 10px;
+  background-color: rgb(236, 236, 236,0.5);
+  border: 1px solid #ddd;
+  appearance: none; 
+}
+.contact-table__tel{
+  width: 30%;
+  height: 30px;
+  background-color: rgb(236, 236, 236,0.5);
+  border: 1px solid #ddd;
+}
+.contacts-form__button{
+  margin: 0 auto;
+  width: 100px;
+}
+.contacts-form__button-submit{
+  width: 100%;
+  margin: 30px 0;
+  padding: 5px 0;
+  border: 1px solid #ddd;
+  background-color: #a08660;;
+  color: #fff;
+}

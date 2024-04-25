@@ -1,0 +1,46 @@
+.confirm-form{
+    border-top:1px solid rgb(221, 207, 188);
+    background-color: #fff;
+  }
+  .confirm-form__title{
+    margin: 0 auto;
+    padding:20px 0;
+    text-align: center;
+    color:#a08660;
+  }
+  table{
+    margin: 0 auto;
+    width: 80%;
+    border: 1px solid rgb(221, 207, 188,0.5) ;
+  }
+  td{
+    padding: 10px 100px;
+    border: 1px solid rgb(221, 207, 188,0.5) ;
+  }
+  th{
+    text-align: left;
+    width: 20%;
+    padding: 10px 30px;
+    background-color: rgb(78, 40, 0,0.5);
+    color: #fff;
+    text-align: left;
+    border: 1px solid rgb(221, 207, 188,0.5) ;
+  }
+  .confirm-table__button{
+    display: flex;
+    width: 200px;
+    margin: 30px auto;
+    justify-content: space-between;
+  }
+  .button-submit{
+    width: 100px;
+    background-color: rgb(78, 40, 0,0.7);
+    border: 1px solid rgb(78, 40, 0,0.7) ;
+    color: #fff;
+    padding: 5px;
+  }
+  .button-back{
+    background-color: #fff;
+    border: 1px solid #fff ;
+    color: rgb(78, 40, 0,0.6);
+  }
